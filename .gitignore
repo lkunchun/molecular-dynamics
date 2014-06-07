@@ -1,0 +1,9 @@
+.DS_Store
+*.o
+*.log
+*.y
+*.ps
+*.eps
+core
+.out
+*.exe
