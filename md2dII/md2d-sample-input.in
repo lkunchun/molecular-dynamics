@@ -1,0 +1,9 @@
+@!
+# a sample input file
+@andersen 1
+seed 245
+time 0 0.01 6000 200
+atom 1.0 1.0 0.0 0.0
+atom 1.0 1.0 2.0 1.0
+atom 1.0 1.0 2.0 3.0
+run
